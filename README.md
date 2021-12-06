@@ -1,4 +1,4 @@
-# STROKE_NLP_2022
+## NLP for Complications of Acute Ischemic Stroke
 
 This is a central repository of Python code for Natural Language Processing (NLP) of acute ischemic stroke reports from MGB and BMC hospitals 
 in order to identify critical sequelae. You will find scripts for training and testing a variety of traditional machine learning algorithms trained for this task, 
